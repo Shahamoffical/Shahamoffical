@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./shaham-banner.svg?v=6">
-  <source media="(prefers-color-scheme: light)" srcset="./shaham-banner-light.svg?v=6">
-  <img src="./shaham-banner.svg?v=6" alt="Shaham Abbas — Shopify Theme &amp; Full Stack Developer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./shaham-banner.svg?v=10">
+  <source media="(prefers-color-scheme: light)" srcset="./shaham-banner-light.svg?v=10">
+  <img src="./shaham-banner.svg?v=10" alt="Shaham Abbas — Shopify Theme &amp; Full Stack Developer" width="100%"/>
 </picture>
 
 </div>
@@ -16,7 +16,7 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./shaham-lanyard.svg?v=7" alt="Shaham Abbas ID badge" width="330"/>
+<img src="./shaham-lanyard.svg?v=10" alt="Shaham Abbas ID badge" width="330"/>
 
 </td>
 <td width="62%" valign="middle">
@@ -44,13 +44,13 @@
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="./shaham-stats.svg?v=2" alt="GitHub Stats" height="185"/>
-<img src="./shaham-langs.svg?v=2" alt="Top Languages" height="185"/>
+<img src="./shaham-stats.svg?v=10" alt="GitHub Stats" height="185"/>
+<img src="./shaham-langs.svg?v=10" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
 <!-- 🚀 Top Featured Projects Card -->
-<img src="./shaham-projects.svg?v=1" alt="Top Projects" width="95%"/>
+<img src="./shaham-projects.svg?v=10" alt="Top Projects" width="95%"/>
 
 <br/><br/>
 
@@ -64,7 +64,7 @@
 <br/><br/>
 
 <!-- 🏆 Trophies (local animated SVG — always loads) -->
-<img src="./shaham-trophies.svg?v=2" alt="Trophies" width="95%"/>
+<img src="./shaham-trophies.svg?v=10" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
