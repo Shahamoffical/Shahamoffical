@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./shaham-banner.svg?v=10">
-  <source media="(prefers-color-scheme: light)" srcset="./shaham-banner-light.svg?v=10">
-  <img src="./shaham-banner.svg?v=10" alt="Shaham Abbas — Shopify Theme &amp; Full Stack Developer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./shaham-banner.svg?v=11">
+  <source media="(prefers-color-scheme: light)" srcset="./shaham-banner-light.svg?v=11">
+  <img src="./shaham-banner.svg?v=11" alt="Shaham Abbas — Shopify Theme &amp; Full Stack Developer" width="100%"/>
 </picture>
 
 </div>
@@ -45,7 +45,7 @@
 ### 📊 GitHub Stats & Graphs
 
 <img src="./shaham-stats.svg?v=10" alt="GitHub Stats" height="185"/>
-<img src="./shaham-langs.svg?v=10" alt="Top Languages" height="185"/>
+<img src="./shaham-langs.svg?v=11" alt="Top Languages" height="185"/>
 
 <br/><br/>
 

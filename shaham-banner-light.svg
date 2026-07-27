@@ -125,10 +125,10 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 <g class="pill" style="animation:fadeIn .3s ease 5.5s forwards"><rect x="304" y="422" width="130" height="26" rx="13" fill="rgba(219,39,119,.10)" stroke="#db2777" stroke-width="1"/><text x="369" y="439" text-anchor="middle" font-size="12" fill="#be185d" font-weight="bold">Responsive UI</text></g>
 
 <!-- About Me -->
-<text class="ii" x="48" y="490" font-size="15" fill="#db2777" font-weight="bold" style="animation:fadeIn .4s ease 5.6s forwards">⚡ About Me</text>
-<text class="ii" x="48" y="516" font-size="13.5" style="animation:fadeIn .4s ease 5.8s forwards"><tspan fill="#16a34a">&gt;_ </tspan><tspan fill="#334155">Specialized in custom Shopify theme development &amp; full-stack web apps.</tspan></text>
-<text class="ii" x="48" y="540" font-size="13.5" style="animation:fadeIn .4s ease 6s forwards"><tspan fill="#ca8a04">💡 </tspan><tspan fill="#334155">Building high-converting, performant e-commerce storefronts.</tspan></text>
-<text class="ii" x="48" y="564" font-size="13.5" style="animation:fadeIn .4s ease 6.2s forwards"><tspan fill="#db2777">🚀 </tspan><tspan fill="#334155">Turning complex requirements into seamless digital experiences.</tspan></text>
+<text class="ii" x="48" y="488" font-size="17" fill="#db2777" font-weight="bold" style="animation:fadeIn .4s ease 5.6s forwards">⚡ About Me</text>
+<text class="ii" x="48" y="515" font-size="16" style="animation:fadeIn .4s ease 5.8s forwards"><tspan fill="#16a34a">&gt;_ </tspan><tspan fill="#334155">Specialized in custom Shopify theme development &amp; full-stack web apps.</tspan></text>
+<text class="ii" x="48" y="540" font-size="16" style="animation:fadeIn .4s ease 6s forwards"><tspan fill="#ca8a04">💡 </tspan><tspan fill="#334155">Building high-converting, performant e-commerce storefronts.</tspan></text>
+<text class="ii" x="48" y="565" font-size="16" style="animation:fadeIn .4s ease 6.2s forwards"><tspan fill="#db2777">🚀 </tspan><tspan fill="#334155">Turning complex requirements into seamless digital experiences.</tspan></text>
 
 <!-- Stats card -->
 <g class="st" style="animation:fadeIn .5s ease 6.4s forwards">
