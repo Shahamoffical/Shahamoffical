@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 260" width="520" height="260" role="img" aria-label="Shaham Abbas's Top Projects">
+<defs>
+<style type="text/css"><![CDATA[
+text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+@keyframes fadeSlide{from{opacity:0;transform:translateX(-14px)}to{opacity:1;transform:translateX(0)}}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes shineX{0%{transform:translateX(-160px) skewX(-15deg)}60%,100%{transform:translateX(580px) skewX(-15deg)}}
+@keyframes floatIcon{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+.row{opacity:0;animation:fadeSlide .5s ease forwards}
+.sh{animation:shineX 4.5s ease-in-out 2s infinite}
+.pcard{transition:transform .2s ease;transform-box:fill-box;transform-origin:center;cursor:pointer}
+.pcard:hover{transform:scale(1.02)}
+]]></style>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%"><animate attributeName="stop-color" values="#ff7eb6;#c084fc;#ff7eb6" dur="6s" repeatCount="indefinite"/></stop>
+  <stop offset="100%"><animate attributeName="stop-color" values="#c084fc;#ff7eb6;#c084fc" dur="6s" repeatCount="indefinite"/></stop>
+</linearGradient>
+<linearGradient id="shg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#fff" stop-opacity="0"/><stop offset="50%" stop-color="#fff" stop-opacity=".07"/><stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="cc"><rect x="1" y="1" width="518" height="258" rx="14"/></clipPath>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="12" cy="12" r=".6" fill="rgba(192,132,252,.12)"/></pattern>
+</defs>
+
+<!-- Outer Container -->
+<rect x="1" y="1" width="518" height="258" rx="14" fill="#170e28" stroke="url(#tg)" stroke-width="1.5"/>
+<rect x="1" y="1" width="518" height="258" rx="14" fill="url(#dots)"/>
+
+<!-- Header -->
+<text x="24" y="34" font-size="16" font-weight="bold" fill="url(#tg)">🚀 Top Featured Projects</text>
+
+<!-- Project 1: SHAHAM-AI -->
+<g class="row pcard" style="animation-delay:0.40s">
+  <rect x="20" y="48" width="480" height="44" rx="8" fill="#1c1230" stroke="#3b2a5c" stroke-width="1"/>
+  <text x="36" y="75" font-size="16">🤖</text>
+  <text x="64" y="75" font-size="13.5" font-weight="bold" fill="#ff7eb6">SHAHAM-AI</text>
+  <text x="175" y="75" font-size="11.5" fill="#8b949e">Autonomous Multi-Agent Platform</text>
+  
+  <!-- Tech badges -->
+  <rect x="385" y="60" width="50" height="18" rx="9" fill="rgba(247,223,30,.10)" stroke="#f7df1e" stroke-width="0.8"/>
+  <text x="410" y="73" text-anchor="middle" font-size="9.5" fill="#fde047" font-weight="bold">React</text>
+  
+  <rect x="440" y="60" width="52" height="18" rx="9" fill="rgba(55,118,171,.14)" stroke="#3776ab" stroke-width="0.8"/>
+  <text x="466" y="73" text-anchor="middle" font-size="9.5" fill="#60a5fa" font-weight="bold">FastAPI</text>
+</g>
+
+<!-- Project 2: REGENT-SCENT-Shopify-Store- -->
+<g class="row pcard" style="animation-delay:0.65s">
+  <rect x="20" y="98" width="480" height="44" rx="8" fill="#1c1230" stroke="#3b2a5c" stroke-width="1"/>
+  <text x="36" y="125" font-size="16">🛍️</text>
+  <text x="64" y="125" font-size="13.5" font-weight="bold" fill="#a3e635">REGENT-SCENT</text>
+  <text x="200" y="125" font-size="11.5" fill="#8b949e">Shopify Storefront Theme</text>
+
+  <!-- Tech badges -->
+  <rect x="385" y="110" width="50" height="18" rx="9" fill="rgba(150,191,72,.15)" stroke="#96bf48" stroke-width="0.8"/>
+  <text x="410" y="123" text-anchor="middle" font-size="9.5" fill="#bef264" font-weight="bold">Liquid</text>
+
+  <rect x="440" y="110" width="52" height="18" rx="9" fill="rgba(150,191,72,.15)" stroke="#96bf48" stroke-width="0.8"/>
+  <text x="466" y="123" text-anchor="middle" font-size="9.5" fill="#a3e635" font-weight="bold">Shopify</text>
+</g>
+
+<!-- Project 3: Next-JS-Portfolio -->
+<g class="row pcard" style="animation-delay:0.90s">
+  <rect x="20" y="148" width="480" height="44" rx="8" fill="#1c1230" stroke="#3b2a5c" stroke-width="1"/>
+  <text x="36" y="175" font-size="16">⚡</text>
+  <text x="64" y="175" font-size="13.5" font-weight="bold" fill="#7dd3fc">Next-JS-Portfolio</text>
+  <text x="220" y="175" font-size="11.5" fill="#8b949e">Developer Portfolio App</text>
+
+  <!-- Tech badges -->
+  <rect x="385" y="160" width="50" height="18" rx="9" fill="rgba(97,218,251,.10)" stroke="#61dafb" stroke-width="0.8"/>
+  <text x="410" y="173" text-anchor="middle" font-size="9.5" fill="#67e8f9" font-weight="bold">Next.js</text>
+
+  <rect x="440" y="160" width="52" height="18" rx="9" fill="rgba(247,223,30,.10)" stroke="#f7df1e" stroke-width="0.8"/>
+  <text x="466" y="173" text-anchor="middle" font-size="9.5" fill="#fde047" font-weight="bold">JS</text>
+</g>
+
+<!-- Project 4: Trading-App -->
+<g class="row pcard" style="animation-delay:1.15s">
+  <rect x="20" y="198" width="480" height="44" rx="8" fill="#1c1230" stroke="#3b2a5c" stroke-width="1"/>
+  <text x="36" y="225" font-size="16">📈</text>
+  <text x="64" y="225" font-size="13.5" font-weight="bold" fill="#c084fc">Trading-App</text>
+  <text x="180" y="225" font-size="11.5" fill="#8b949e">Real-Time Financial Interface</text>
+
+  <!-- Tech badges -->
+  <rect x="385" y="210" width="50" height="18" rx="9" fill="rgba(247,223,30,.10)" stroke="#f7df1e" stroke-width="0.8"/>
+  <text x="410" y="223" text-anchor="middle" font-size="9.5" fill="#fde047" font-weight="bold">React</text>
+
+  <rect x="440" y="210" width="52" height="18" rx="9" fill="rgba(139,92,246,.14)" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="466" y="223" text-anchor="middle" font-size="9.5" fill="#c4b5fd" font-weight="bold">Node.js</text>
+</g>
+
+<!-- Shine overlay -->
+<g clip-path="url(#cc)"><rect class="sh" x="0" y="0" width="120" height="260" fill="url(#shg)"/></g>
+</svg>
